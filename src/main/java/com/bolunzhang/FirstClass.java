@@ -5,5 +5,6 @@ public class FirstClass {
         System.out.println("orgin");
         System.out.println("second");
         System.out.println("third");
+        System.out.println("branchTwo");
     }
 }
