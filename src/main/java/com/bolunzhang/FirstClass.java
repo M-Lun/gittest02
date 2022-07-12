@@ -6,5 +6,6 @@ public class FirstClass {
         System.out.println("second");
         System.out.println("third");
         System.out.println("branchTwo");
+        System.out.println("branchTwo second commit");
     }
 }
